@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+padding:0;
+margin:0;	
+	}
+	
+
+.header{
+background-color:#000 !important;	
+	}
+.logo h3 a{
+font-size:2em;
+text-decoration:none;
+padding:20px;
+color:#FFF !important;
+	}	
+.nav1 ul li a{
+color:#fff !important;
+font-size:20px !important;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif ;
+transition:all 1s ease;
+font-family:style1;
+
+	}
+
+.nav1 ul li a:hover{
+background-color:#06F !important;	
+color:#fff !important;
+	}	
+.btn1:hover{
+color:#fff !important;
+background-color:#06F !important;
+border:1px solid #003 !important;	
+	}
+.icon-c:hover{
+color:#06F !important;
+	
+	}		
+	
+.nav1{
+margin:0 !important;
+background-color:#003 !important;	
+border:1px solid #000 !important;	
+	}	
+.color:hover{
+color:#003 !important;
+	}	
+	
+.btn2{
+margin:20px !important;	
+	
+	}
+.sidebar{
+background-color:#999;
+height:500px;
+border:2px inset #06F;	
+	}	
+	
+.sidebar h3{
+padding:10px;
+color:#003;
+border-bottom:1px solid #000;
+font-size:2em;
+	
+	}		
+		
+.sidebar li a{
+text-decoration:none;	
+color:#FFF;
+font-size:1.6em;
+margin:10px !important;
+-webkit-transition:all 500ms ease;	
+	
+	}
+.sidebar li a:hover{
+color:#06F;	
+font-size:1.7em;
+
+	}	
+	
+
+.sidebar li{
+margin-top:10px;	
+padding:10px;
+border-bottom:2px solid #000;
+border-right:2px solid #000;	
+	}	
+
+.sidebar li:hover{
+padding:15px;	
+border-top:2px solid #000;
+	}		
+		
+
+
+
+
+
+
+
+.footer{
+background-color:#000;
+padding:10px;
+color:#FFF;
+font-size:1.3em;
+text-align:center;
+	}

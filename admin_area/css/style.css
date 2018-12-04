@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+margin:0;
+padding:0;	
+	}
+
+.header h1{
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+border:1px solid #006;
+box-shadow:3px 3px 10px 2px #000033;
+background:#009;
+color:#FFF;
+	}
+.btn1:hover{
+	border:1px solid #006 !important;
+box-shadow:2px 2px 3px #000033 !important;
+	}
+.btn2:hover{
+	border:1px solid #006 !important;
+box-shadow:2px 2px 3px #000033 !important;
+	}	
+	
+				
+.btn1{
+background-color: #39F !important;
+color:#FFF !important;
+
+	}	
+#for{
+font-size:15px;
+	}	
+.logo{
+padding:10px;	
+	}
+
+	
+		
+.header1{
+border:1px solid #000;
+background-color:#CCC;	
+	}	
+.nav1 li a{
+font-size:18px;	
+padding:30px 15px !important;
+color:#009;	
+font-family:Georgia, serif;
+text-shadow:1px 1px 1px #000 !important
+	}
+.nav1 li a:hover{
+	background-color:transparent !important;
+	}	
+
+.btn2{
+background-color: #009 !important;
+color:#FFF !important;
+margin:25px;
+border:none !important;
+font-family:Georgia, serif;
+	}		
+
+.side{
+background-color:#999;	
+	}
+
+.img h2{
+font-size:18px;	
+border-bottom:2px solid #09F !important;
+text-shadow:1px 1px 1px #000 !important;
+color:#009;
+font-family:Georgia, serif;
+	}	
+
+#cate ul li{
+padding:8px;
+	}	
+#cate ul li a{
+color:#009;
+font-size:18px;
+font-family:Georgia, serif;	
+	}	
